@@ -1,0 +1,23 @@
+div#col-izq {
+    width: 74%;
+    display: inline-block;
+    vertical-align: top;
+    color:red;
+}
+
+div#col-der {
+    width: 24%;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: red;
+}
+
+div#titulo{
+	color:purple;
+	font-family: 'Montserrat', sans-serif;
+}

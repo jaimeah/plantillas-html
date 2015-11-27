@@ -1,0 +1,20 @@
+div#col-izq {
+    width: 69%;
+    display: inline-block;
+    vertical-align:top;
+    color:#345423;
+}
+
+div#col-der {
+    width: 29%;
+    display: inline-block;
+}
+
+div#titulo{
+	color:red;
+	font-family: 'Raleway', sans-serif;
+}
+
+img {
+    width: 100%;
+}

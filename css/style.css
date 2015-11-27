@@ -1,0 +1,30 @@
+div#col-izq {
+    width: 74%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div#col-der {
+    width: 24%;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#mini-perfil{
+	font-size: 12px;
+}
+
+#etiqueta{
+	font-weight: bold;
+}
+
+div#col-izq p{
+	font-size:15px;
+} 
